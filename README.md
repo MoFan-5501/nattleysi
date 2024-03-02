@@ -1,2 +1,3 @@
-# nattleysi
-A Project built during Hall of Hacks 
+# Nattleysi
+### A Scheduling App build for Students
+
